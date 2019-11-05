@@ -1,2 +1,2 @@
 # flask_testapp
-Test blog with Flask
+Blog with Flask
