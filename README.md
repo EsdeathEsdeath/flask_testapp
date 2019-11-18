@@ -1,2 +1,2 @@
 # flask_testapp
-Blog with Flask
+Blog with Flask + postgresql + bootstrap 
